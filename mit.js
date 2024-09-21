@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Mumbai',
+    food: 'Briyani',
     colors: ['blue', 'green'],
     mascot: "AI",
     founded: 2003,
