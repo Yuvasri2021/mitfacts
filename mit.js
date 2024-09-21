@@ -1,7 +1,7 @@
 var mit = {
-    city: 'Coiembatore',
-    colors: ['pink', 'red'],
-    mascot: "robot",
-    founded: 1900,
+    city: 'Switcherland',
+    colors: ['blue', 'green'],
+    mascot: "AI",
+    founded: 2003,
     motto: 'Carpe diem',
 };
