@@ -1,5 +1,5 @@
 var mit = {
-    city: 'Switcherland',
+    city: 'Mumbai',
     colors: ['blue', 'green'],
     mascot: "AI",
     founded: 2003,
